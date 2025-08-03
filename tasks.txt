@@ -1,2 +1,5 @@
 - [ ] Task 1: Set up Git repository
 - [ ] Task 2: Create tasks.txt file
+- [ ] Learn Git basics
+- [ ] Set up Git repository
+

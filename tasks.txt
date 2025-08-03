@@ -6,4 +6,4 @@
 =======
 
 >>>>>>> feature/remove-tasks
-"- Practice Git branching" 
+ 
